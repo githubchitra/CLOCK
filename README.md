@@ -16,7 +16,7 @@ To compile and run the program, follow these steps:
 1. Clone this repository to your local machine.
    
    bash
-   git clone 
+   git clone https://github.com/githubchitra/CLOCK/tree/main
    
 
 2. Navigate to the project directory.
